@@ -1,4 +1,4 @@
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
+package com.rahul.basics;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,5 +15,15 @@ public class Main {
         boolean isCollegeOpen = false;
 
         String name = "Mark";
+
+        int a = 10;
+        int b = 25;
+
+        // swap
+        int temp = a;
+        a = b;
+        b = temp;
+
+        System.out.println(a + " " + b);
     }
 }

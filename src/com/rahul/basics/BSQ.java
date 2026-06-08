@@ -1,3 +1,5 @@
+package com.rahul.basics;
+
 import java.util.Scanner;
 
 public class BSQ {

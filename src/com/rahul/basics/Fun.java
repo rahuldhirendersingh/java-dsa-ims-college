@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package com.rahul.basics;
 
 public class Fun {
     static String name = "Mark";

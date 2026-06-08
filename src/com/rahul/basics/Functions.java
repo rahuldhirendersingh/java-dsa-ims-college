@@ -1,3 +1,5 @@
+package com.rahul.basics;
+
 public class Functions {
     public static void main(String[] args) {
 //        greetings("Mark");

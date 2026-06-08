@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package com.rahul.basics;
+
 import java.util.Scanner;
 
 public class LearningArrays {
